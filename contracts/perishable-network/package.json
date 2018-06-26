@@ -1,6 +1,6 @@
 {
   "name": "cicero-perishable-network",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Track shipments and invoke a Cicero Smart Clause",
   "scripts": {
     "test": "mocha --recursive --timeout 100000",
